@@ -1,0 +1,23 @@
+{
+  "name": "7-Seconds",
+  "homepage": "https://github.com/rraffael/MM-7-Seconds",
+  "authors": [
+    "raffael-de-castro-rodrigues"
+  ],
+  "description": "A static website project made with materia-ui Kit template from creative-tim",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui"
+  ],
+  "license": "MIT License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
