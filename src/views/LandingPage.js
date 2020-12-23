@@ -14,12 +14,21 @@ import Team from "./Sections/Team.js";
 import Downloads from "./Sections/Downloads.js";
 import Project from "./Sections/Project.js";
 
+
+const myStyles = makeStyles(() => ({
+  video: {
+    
+},
+}));
+
 const dashboardRoutes = [];
 const useStyles = makeStyles(styles);
 
 export default function LandingPage(props) {
   const classes = useStyles();
+  const myClasses = myStyles();
   const { ...rest } = props;
+
   return (
     <div>
       <Header
@@ -37,10 +46,8 @@ export default function LandingPage(props) {
       <Parallax filter image={require("assets/img/landing-bg.jpg")}>
         <div className={classes.container}>
           <GridContainer>
-            <GridItem xs={12} sm={12} md={6}>
-              <CardMedia>
-                <ReactPlayer url='https://www.youtube.com/embed/C_pSFnH5JKM?start=14'/>
-              </CardMedia>
+            <GridItem align="center"  xs={12} sm={12} md={6}>
+            <ReactPlayer width="100%" url='https://www.youtube.com/embed/C_pSFnH5JKM?start=14'/>
             </GridItem>
           </GridContainer>
         </div>

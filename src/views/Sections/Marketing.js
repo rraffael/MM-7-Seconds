@@ -24,7 +24,7 @@ export default function ProductSection() {
             Teaser
           </Typography>
           <CardMedia align="center">
-                <ReactPlayer url='https://www.youtube.com/embed/8e1I94tIzgM'/>
+                <ReactPlayer width="90%" url='https://www.youtube.com/embed/8e1I94tIzgM'/>
           </CardMedia>
         </GridItem>
       </GridContainer>
