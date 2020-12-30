@@ -6,6 +6,7 @@ const headerLinksStyle = theme => ({
   list: {
     ...defaultFont,
     fontSize: "14px",
+    fontFamily: "Roboto",
     margin: 0,
     paddingLeft: "0",
     listStyle: "none",

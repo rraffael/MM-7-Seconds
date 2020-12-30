@@ -55,7 +55,7 @@ const infoStyle = {
     overflow: "hidden",
     marginTop: "0px",
     fontSize: "14px",
-    fontFamily: '"PT Mono", monospace',
+    fontFamily: 'Roboto',
   },
   iconWrapperVertical: {
     float: "none"

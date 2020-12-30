@@ -24,7 +24,7 @@ const teamStyle = {
   },
   description: {
     color: "#999",
-    fontFamily: '"PT Mono", monospace',
+    fontFamily: 'Roboto',
   },
   justifyCenter: {
     justifyContent: "center !important"

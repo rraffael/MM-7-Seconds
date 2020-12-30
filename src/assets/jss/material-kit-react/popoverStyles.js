@@ -9,7 +9,7 @@ const popoverStyles = {
     borderRadius: "3px",
     display: "block",
     maxWidth: "276px",
-    fontFamily: '"PT Mono", monospace',
+    fontFamily: 'Roboto',
     fontStyle: "normal",
     fontWeight: "400",
     textAlign: "start",

@@ -14,7 +14,7 @@ const productStyle = {
   },
   description: {
     color: "#999",
-    fontFamily: '"PT Mono", monospace',
+    fontFamily: 'Roboto',
   }
 };
 
