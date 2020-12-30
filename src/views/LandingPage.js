@@ -43,10 +43,10 @@ export default function LandingPage(props) {
         }}
         {...rest}
       />
-      <Parallax filter image={require("assets/img/landing-bg.jpg")}>
+      <Parallax filter image={require("assets/img/background.jpg")}>
         <div className={classes.container}>
           <GridContainer>
-            <GridItem align="center"  xs={12} sm={12} md={6}>
+            <GridItem  xs={12} sm={12} md={6}>
             <ReactPlayer width="100%" url='https://www.youtube.com/embed/C_pSFnH5JKM?start=14'/>
             </GridItem>
           </GridContainer>

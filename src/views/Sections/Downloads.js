@@ -24,13 +24,13 @@ export default function WorkSection() {
         <GridContainer className={classes.textCenter} justify="center">
           <GridItem xs={12} sm={6} md={3}>
             <Button
-              color="primary"
+              color="white"
               size="lg"
               href={Report}
               target="_blank"
             >
               <i className={classes.socials + " fas fa-download"} />
-              <Typography  className={classes.description}>
+              <Typography className={classes.description}>
               Report
               </Typography>
               
