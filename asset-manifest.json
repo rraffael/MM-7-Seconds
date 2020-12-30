@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MM-7-Seconds/static/css/main.27e9d3dc.chunk.css",
-    "main.js": "/MM-7-Seconds/static/js/main.89bc4a74.chunk.js",
-    "main.js.map": "/MM-7-Seconds/static/js/main.89bc4a74.chunk.js.map",
+    "main.js": "/MM-7-Seconds/static/js/main.431fbe14.chunk.js",
+    "main.js.map": "/MM-7-Seconds/static/js/main.431fbe14.chunk.js.map",
     "runtime-main.js": "/MM-7-Seconds/static/js/runtime-main.8c089074.js",
     "runtime-main.js.map": "/MM-7-Seconds/static/js/runtime-main.8c089074.js.map",
     "static/js/2.0a42acb9.chunk.js": "/MM-7-Seconds/static/js/2.0a42acb9.chunk.js",
     "static/js/2.0a42acb9.chunk.js.map": "/MM-7-Seconds/static/js/2.0a42acb9.chunk.js.map",
     "index.html": "/MM-7-Seconds/index.html",
-    "precache-manifest.7ac86f2b4a31c3dadc5e2c3754e42fed.js": "/MM-7-Seconds/precache-manifest.7ac86f2b4a31c3dadc5e2c3754e42fed.js",
+    "precache-manifest.4a8b93045823a8fa7259e08548c5890a.js": "/MM-7-Seconds/precache-manifest.4a8b93045823a8fa7259e08548c5890a.js",
     "service-worker.js": "/MM-7-Seconds/service-worker.js",
     "static/css/main.27e9d3dc.chunk.css.map": "/MM-7-Seconds/static/css/main.27e9d3dc.chunk.css.map",
     "static/js/2.0a42acb9.chunk.js.LICENSE.txt": "/MM-7-Seconds/static/js/2.0a42acb9.chunk.js.LICENSE.txt",
@@ -44,9 +44,9 @@
     "static/media/References.pdf": "/MM-7-Seconds/static/media/References.d9397fdf.pdf",
     "static/media/Report.pdf": "/MM-7-Seconds/static/media/Report.7736d21f.pdf",
     "static/media/UserExperience.png": "/MM-7-Seconds/static/media/UserExperience.6e9d2b5f.png",
+    "static/media/background.jpg": "/MM-7-Seconds/static/media/background.15c4738a.jpg",
     "static/media/hugo.jpg": "/MM-7-Seconds/static/media/hugo.373f5e06.jpg",
     "static/media/ines.jpg": "/MM-7-Seconds/static/media/ines.817956d4.jpg",
-    "static/media/landing-bg.jpg": "/MM-7-Seconds/static/media/landing-bg.df8fd3ef.jpg",
     "static/media/logo.png": "/MM-7-Seconds/static/media/logo.7513f7d1.png",
     "static/media/noemia.png": "/MM-7-Seconds/static/media/noemia.ca4cfa9e.png",
     "static/media/poster.png": "/MM-7-Seconds/static/media/poster.21ae7574.png",
@@ -58,6 +58,6 @@
     "static/js/runtime-main.8c089074.js",
     "static/js/2.0a42acb9.chunk.js",
     "static/css/main.27e9d3dc.chunk.css",
-    "static/js/main.89bc4a74.chunk.js"
+    "static/js/main.431fbe14.chunk.js"
   ]
 }
