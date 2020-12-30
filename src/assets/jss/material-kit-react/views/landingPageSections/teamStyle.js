@@ -24,7 +24,7 @@ const teamStyle = {
   },
   description: {
     color: "#000",
-    fontFamily: 'Roboto',
+    fontFamily: 'Lucida Console',
   },
   justifyCenter: {
     justifyContent: "center !important"

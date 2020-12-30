@@ -24,7 +24,7 @@ const typographyStyle = {
     width: "100%"
   },
   note: {
-    fontFamily: 'Roboto',
+    fontFamily: 'Lucida Console',
     bottom: "10px",
     color: "#c0c1c2",
     display: "block",

@@ -15,7 +15,7 @@ const workStyle = {
   description: {
     color: "#000",
     textAlign: "center",
-    fontFamily: 'Roboto',
+    fontFamily: 'Lucida Console',
   },
   textCenter: {
     textAlign: "center"

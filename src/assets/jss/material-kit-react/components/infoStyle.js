@@ -55,7 +55,7 @@ const infoStyle = {
     overflow: "hidden",
     marginTop: "0px",
     fontSize: "14px",
-    fontFamily: 'Roboto',
+    fontFamily: 'Lucida Console',
   },
   iconWrapperVertical: {
     float: "none"

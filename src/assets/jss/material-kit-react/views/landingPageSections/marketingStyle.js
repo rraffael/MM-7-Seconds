@@ -14,7 +14,7 @@ const productStyle = {
   },
   description: {
     color: "#000000",
-    fontFamily: 'Roboto',
+    fontFamily: 'Lucida Console',
   }
 };
 
