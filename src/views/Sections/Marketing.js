@@ -7,8 +7,8 @@ import styles from "assets/jss/material-kit-react/views/landingPageSections/mark
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 
-import marketing1 from 'assets/img/marketing/logo.png';
-import marketing2 from 'assets/img/marketing/cards.png';
+import marketing1 from 'assets/img/marketing/cards.png';
+import marketing2 from 'assets/img/marketing/logo.png';
 import marketing3 from 'assets/img/marketing/poster.png';
 import marketing4 from 'assets/img/marketing/sticker.png';
 import marketing5 from 'assets/img/marketing/billboard.png';
