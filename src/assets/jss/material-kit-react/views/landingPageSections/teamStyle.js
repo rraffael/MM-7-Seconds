@@ -26,6 +26,11 @@ const teamStyle = {
     color: "#000",
     fontFamily: 'Lucida Console',
   },
+  descriptionMain: {
+    color: "#000",
+    fontFamily: 'Lucida Console',
+    marginBottom: "10vh",
+  },
   justifyCenter: {
     justifyContent: "center !important"
   },

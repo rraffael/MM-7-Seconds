@@ -1,13 +1,15 @@
 import React from "react";
 import classNames from "classnames";
-import { makeStyles, Typography, Button, Icon } from "@material-ui/core/";
+import { makeStyles, Typography, Button } from "@material-ui/core/";
+import styles from "assets/jss/material-kit-react/views/landingPageSections/teamStyle.js";
+
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
 import Card from "components/Card/Card.js";
 import CardBody from "components/Card/CardBody.js";
-import styles from "assets/jss/material-kit-react/views/landingPageSections/teamStyle.js";
 import CardHeader from "components/Card/CardHeader";
 import CardFooter from "components/Card/CardFooter";
+
 import raffael from 'assets/img/faces/raffael.png';
 import ines from 'assets/img/faces/ines.jpg';
 import rui from 'assets/img/faces/rui.jpg';
@@ -18,6 +20,7 @@ import BehanceIcon from 'assets/img/behance-icon.png';
 import SketchfabIcon from 'assets/img/sketchfab-icon.png';
 
 const useStyles = makeStyles(styles);
+
 export default function TeamSection() {
   const classes = useStyles();
   const imageClasses = classNames(
@@ -33,7 +36,7 @@ export default function TeamSection() {
       <div>
         <GridContainer>
           <GridItem xs={12} sm={12} md={12}>
-            <Typography component="h2" variant="h6" className={classes.description}>
+            <Typography component="h2" variant="h6" className={classes.descriptionMain}>
               We are the team of students of the University of Porto that created this project 
               in Laboratory Multimedia discipline on Multimedia Master degree. 
               Follow a little about us, so don't hesitate to contact us if it's of your interest!

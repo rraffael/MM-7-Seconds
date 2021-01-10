@@ -15,6 +15,9 @@ const productStyle = {
   description: {
     color: "#000000",
     fontFamily: 'Lucida Console',
+  },
+  carousel: {
+    height: "70vh",
   }
 };
 

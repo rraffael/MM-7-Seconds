@@ -15,7 +15,10 @@ const productStyle = {
   description: {
     color: "#000000",
     fontFamily: 'Lucida Console',
-  }
+  },
+  simpleMargin: {
+    padding: "20px 0",
+  },
 };
 
 export default productStyle;

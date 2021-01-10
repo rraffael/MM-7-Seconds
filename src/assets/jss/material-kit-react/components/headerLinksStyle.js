@@ -8,7 +8,7 @@ const headerLinksStyle = theme => ({
     fontSize: "14px",
     fontFamily: "Lucida Console",
     margin: 0,
-    paddingLeft: "0",
+    paddingLeft: "",
     listStyle: "none",
     paddingTop: "0",
     paddingBottom: "0",
@@ -20,7 +20,7 @@ const headerLinksStyle = theme => ({
     position: "relative",
     display: "block",
     width: "auto",
-    margin: "0",
+    margin: "10px",
     padding: "0",
     [theme.breakpoints.down("sm")]: {
       width: "100%",

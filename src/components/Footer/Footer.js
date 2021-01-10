@@ -17,8 +17,8 @@ export default function Footer(props) {
   return (
     <footer className={footerClasses}>
       <Container disableGutters>
-        <Grid>
-          <Grid item>
+        <Grid container>
+          <Grid item xs={12} sm={6} md={6}>
             <a
                 href="https://github.com/rraffael/MM-7-Seconds"
                 className={classes.block}
@@ -26,6 +26,17 @@ export default function Footer(props) {
                 <Typography className={classes.description}>
                   Github { }
                   <i className={classes.socials + " fab fa-github"} />
+                </Typography>
+            </a>
+          </Grid>
+          <Grid item xs={12} sm={6} md={6}>
+            <a
+                href="https://www.facebook.com/7secondsTheSocialExperience"
+                className={classes.block}
+              >
+                <Typography className={classes.description}>
+                  Facebook { }
+                  <i className={classes.socials + " fab fa-facebook"} />
                 </Typography>
             </a>
           </Grid>
