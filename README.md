@@ -4,7 +4,7 @@ This project was carried out during the subject of Multimedia Laboratory of the 
 
 ## Results
 
-https://github.com/rraffael/MM-7-Seconds
+https://rraffael.github.io/MM-7-Seconds/
 
 ## Built With
 
